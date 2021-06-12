@@ -7,9 +7,7 @@
 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=round-square&logo=youtube&link=https://www.youtube.com/channel/없는데)](https://www.youtube.com/channel/없)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCustoomNPC)](https://github.com/CustoomNPC)
-
-[![View](https://komarev.com/ghpvc/?username=CustoomNPC&style=round-square)](https://github.com/CustoomNPC) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCustoomNPC)](https://github.com/CustoomNPC) [![View](https://komarev.com/ghpvc/?username=CustoomNPC&style=round-square)](https://github.com/CustoomNPC) 
 
 ### Stats
 [![swasd's github stats](https://github-readme-stats.vercel.app/api?username=CustoomNPC&show_icons=true&theme=dracula)](https://github.com/CustoomNPC)
