@@ -7,7 +7,7 @@
 </div>
 
 ### Stats
-[![swasd's github stats](https://github-readme-stats.vercel.app/api?username=dodokorean&show_icons=true&theme=dracula)](https://github.com/CustoomNPC)
+[![swasd's github stats](https://github-readme-stats.vercel.app/api?username=CustoomNPC&show_icons=true&theme=dracula)](https://github.com/CustoomNPC)
 
 [![swasd's github toplang](https://github-readme-stats-mocha-zeta.vercel.app/api/top-langs/?username=CustoomNPC&show_icons=true&theme=dracula&layout=compact)](https://github.com/dodokorean)
 
